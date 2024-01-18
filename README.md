@@ -46,7 +46,7 @@ Notebook | Description
 
 Notebook | Description
 :- | :-
-[chat_with_documents.py](https://github.com/klnsuman/LangChain-Dissertation-Using-CodeSpaces/tree/main/Chat_With_Retrieval) | Chat with PDF Documents.
+[chat_with_documents.py](https://github.com/klnsuman/LangChain-Dissertation-Using-CodeSpaces/blob/main/Chat_With_Retrieval/chat_with_documents.py) | Chat with PDF Documents.
 
 </Body>
 
