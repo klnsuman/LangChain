@@ -36,3 +36,6 @@ Notebook | Description
 [Ques-and-Ans_DocumentLoaders.ipynb](https://github.com/klnsuman/LangChain/blob/main/QA_DocumentLoaders_Langchain.ipynb) | Text Loaders , Csv Loaders
 [Streamlit-Basic.ipynb](https://github.com/klnsuman/LangChain/blob/main/Streamlit_sample.ipynb) | Executing Streamlit from google colab
 [LangChain-ChatMessages.ipynb](https://github.com/klnsuman/LangChain/blob/main/LangCain_ChatMessages.ipynb)| Demo of using Chat Models and Messages using Lang Chain
+[Embeddings_LangChain.ipynb](Embeddings_LangChain.ipynb)| Generate Text Embeddings using OpenAI Enbeddings
+[Agents_SerpAPI.ipynb](Agents_SerpAPI.ipynb)| Notebook Contains Integrate with Google Search , Execute SQL Query , FAISS Vector DB , ChatBots with Memory
+
