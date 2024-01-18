@@ -39,14 +39,14 @@ Notebook | Description
 [Streamlit-Basic.ipynb](https://github.com/klnsuman/LangChain/blob/main/Streamlit_sample.ipynb) | Executing Streamlit from google colab
 [LangChain-ChatMessages.ipynb](https://github.com/klnsuman/LangChain/blob/main/LangCain_ChatMessages.ipynb)| Demo of using Chat Models and Messages using Lang Chain
 [Embeddings_LangChain.ipynb](Embeddings_LangChain.ipynb)| Generate Text Embeddings using OpenAI Enbeddings
-[Agents_SerpAPI.ipynb]([Agents_SerpAPI.ipynb](https://github.com/klnsuman/LangChain-Dissertation-Using-CodeSpaces/tree/main/Chat_With_Retrieval))| Notebook Contains Integrate with Google Search , Execute SQL Query , FAISS Vector DB , ChatBots with Memory
+[Agents_SerpAPI.ipynb]([Agents_SerpAPI.ipynb]| Notebook Contains Integrate with Google Search , Execute SQL Query , FAISS Vector DB , ChatBots with Memory
 
 
 <h1 style="color:blue;">Advanced Topics</h1>
 
 Notebook | Description
 :- | :-
-[chat_with_documents.py](chat_with_documents.py) | Chat with PDF Documents.
+[chat_with_documents.py](https://github.com/klnsuman/LangChain-Dissertation-Using-CodeSpaces/tree/main/Chat_With_Retrieval) | Chat with PDF Documents.
 
 </Body>
 
