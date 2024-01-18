@@ -50,7 +50,7 @@ Notebook | Description
 [chroma_db_search_example.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/chroma_db_search_example.ipynb) | Rag Using Chroma
 [Rag-Using-LLAMA.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/Rag-Using-LLAMA.ipynb) | Rag Using LLAMA
 [faiss_db_search_example.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/faiss_db_search_example.ipynb) | RAG Using FAISS
-
+[LLMChains-SerpAPI.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/LLMChains-SerpAPI.ipynb) | Simple Chain - Comment and Then Moderate Using profanity. Comment as One Chain , Moderate as Another Chain
 </Body>
 
 
