@@ -47,6 +47,9 @@ Notebook | Description
 Notebook | Description
 :- | :-
 [chat_with_documents.py](https://github.com/klnsuman/LangChain-Dissertation-Using-CodeSpaces/blob/main/Chat_With_Retrieval/chat_with_documents.py) | Chat with PDF Documents.
+[chroma_db_search_example.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/chroma_db_search_example.ipynb) | Rag Using Chroma
+[Rag-Using-LLAMA.ipynb](https://github.com/klnsuman/LangChain-codespaces-jupyter/blob/main/notebooks/Rag-Using-LLAMA.ipynb) | Rag Using LLAMA
+
 
 </Body>
 
