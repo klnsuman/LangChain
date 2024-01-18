@@ -27,7 +27,9 @@
 ```
 
 
- 
+----------------------------------------------------------------------
+<Body>
+<h1 style="color:blue;">Basic Topics</h1> 
 
 Notebook | Description
 :- | :-
@@ -38,4 +40,14 @@ Notebook | Description
 [LangChain-ChatMessages.ipynb](https://github.com/klnsuman/LangChain/blob/main/LangCain_ChatMessages.ipynb)| Demo of using Chat Models and Messages using Lang Chain
 [Embeddings_LangChain.ipynb](Embeddings_LangChain.ipynb)| Generate Text Embeddings using OpenAI Enbeddings
 [Agents_SerpAPI.ipynb](Agents_SerpAPI.ipynb)| Notebook Contains Integrate with Google Search , Execute SQL Query , FAISS Vector DB , ChatBots with Memory
+
+
+<h1 style="color:blue;">Advanced Topics</h1>
+
+Notebook | Description
+:- | :-
+[chat_with_documents.py](chat_with_documents.py) | Chat with PDF Documents.
+
+</Body>
+
 
