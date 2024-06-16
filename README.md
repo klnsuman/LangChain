@@ -38,7 +38,11 @@ Level 3 : Build Your Own LLM Model
           Need Wikipedia / Book Corpus -> Trillions of Text
 
 
-![image](https://github.com/klnsuman/LangChain/assets/11458777/52310ae0-5c14-46df-a235-44630502578f)
+https://github.com/klnsuman/LangChain/assets/11458777/52310ae0-5c14-46df-a235-44630502578f
+
+![image](https://github.com/klnsuman/LangChain/assets/11458777/2a6f6334-4b8d-4f53-a514-2e773009c1b0)
+
+<img width="545" alt="image" src="https://github.com/klnsuman/LangChain/assets/11458777/2a6f6334-4b8d-4f53-a514-2e773009c1b0">
 
 
 ```
