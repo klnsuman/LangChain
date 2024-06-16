@@ -1,5 +1,5 @@
 <img width="545" alt="image" src="https://github.com/klnsuman/LangChain/assets/11458777/5e28fec4-d192-47bd-b57d-cd28f3d07d82">
-
+<img width="545" alt="image" src="https://github.com/klnsuman/LangChain/assets/11458777/2a6f6334-4b8d-4f53-a514-2e773009c1b0">
 
 ```diff
 - 1. LLM
@@ -38,11 +38,7 @@ Level 3 : Build Your Own LLM Model
           Need Wikipedia / Book Corpus -> Trillions of Text
 
 
-https://github.com/klnsuman/LangChain/assets/11458777/52310ae0-5c14-46df-a235-44630502578f
 
-![image](https://github.com/klnsuman/LangChain/assets/11458777/2a6f6334-4b8d-4f53-a514-2e773009c1b0)
-
-<img width="545" alt="image" src="https://github.com/klnsuman/LangChain/assets/11458777/2a6f6334-4b8d-4f53-a514-2e773009c1b0">
 
 
 ```
