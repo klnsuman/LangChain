@@ -37,6 +37,10 @@ Level 3 : Build Your Own LLM Model
           Want your Model to be specifically , good at ur use case.
           Need Wikipedia / Book Corpus -> Trillions of Text
 
+
+![image](https://github.com/klnsuman/LangChain/assets/11458777/52310ae0-5c14-46df-a235-44630502578f)
+
+
 ```
 
 
