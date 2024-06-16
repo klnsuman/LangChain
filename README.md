@@ -24,6 +24,19 @@
       Converts text to embeddings and stores these embeddings in vector databases for search and retrieval using RAG. Similarity Search.
 - 7. Memory
       This module enables users to create a persisting state between calls of a model.
+
+3 Levels in Which We can use LLM's
+Level 1 : Prompt Engieering
+          Not Touching Any Parameters
+            Easy Way : ChatGPT
+            Less Easy Way : OpenAI API / Huggig face API's(Open Source)
+Level 2 : Model Fine Tuning
+          Adjusting the Pre-Trained Model Parameters
+                            Use upervised Learning / Supervised Fine Tuning.
+Level 3 : Build Your Own LLM Model
+          Want your Model to be specifically , good at ur use case.
+          Need Wikipedia / Book Corpus -> Trillions of Text
+
 ```
 
 
